@@ -1,0 +1,35 @@
+{
+  "mark": {},
+  "createdAt": "2026-01-08T00:38:50.449Z",
+  "groupName": "MEMÓRIA PÓSTUMAS",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "17399315185918@lid",
+      "msg": 4,
+      "cmd": 6,
+      "figu": 0,
+      "pushname": "wesleyvkkj",
+      "firstSeen": "2026-01-08T00:38:50.453Z",
+      "lastActivity": "2026-01-08T12:59:24.429Z"
+    },
+    {
+      "id": "248103382860015@lid",
+      "msg": 1,
+      "cmd": 1,
+      "figu": 0,
+      "pushname": "Jhonata",
+      "firstSeen": "2026-01-08T12:49:44.702Z",
+      "lastActivity": "2026-01-08T12:49:47.369Z"
+    }
+  ]
+}

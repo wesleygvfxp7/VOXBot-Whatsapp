@@ -1,0 +1,116 @@
+{
+  "mark": {},
+  "createdAt": "2026-01-07T23:49:49.998Z",
+  "groupName": "Clube dos Perdedores",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "17399315185918@lid",
+      "msg": 81,
+      "cmd": 59,
+      "figu": 4,
+      "pushname": "wesleyvkkj",
+      "firstSeen": "2026-01-07T23:49:50.003Z",
+      "lastActivity": "2026-01-08T18:15:15.287Z"
+    },
+    {
+      "id": "248103382860015@lid",
+      "msg": 14,
+      "cmd": 4,
+      "figu": 0,
+      "pushname": "Jhonata",
+      "firstSeen": "2026-01-07T23:53:18.228Z",
+      "lastActivity": "2026-01-08T17:55:24.160Z"
+    },
+    {
+      "id": "195008862920882@lid",
+      "msg": 5,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "𝕰𝖉𝖚𝖒𝖔𝖓𝖙𝖞𝖊",
+      "firstSeen": "2026-01-07T23:57:00.770Z",
+      "lastActivity": "2026-01-08T13:12:14.535Z"
+    },
+    {
+      "id": "79212467728468@lid",
+      "msg": 3,
+      "cmd": 0,
+      "figu": 2,
+      "pushname": "Henrique☯️☕🏎️",
+      "firstSeen": "2026-01-08T00:08:44.411Z",
+      "lastActivity": "2026-01-08T13:22:26.047Z"
+    },
+    {
+      "id": "26165511196804@lid",
+      "msg": 2,
+      "cmd": 2,
+      "figu": 0,
+      "pushname": "VOXBot",
+      "firstSeen": "2026-01-08T00:11:11.909Z",
+      "lastActivity": "2026-01-08T13:03:55.715Z"
+    },
+    {
+      "id": "186874765267197@lid",
+      "msg": 2,
+      "cmd": 0,
+      "figu": 2,
+      "pushname": "Vitor",
+      "firstSeen": "2026-01-08T00:17:28.791Z",
+      "lastActivity": "2026-01-08T00:18:04.599Z"
+    },
+    {
+      "id": "115436104478819@lid",
+      "msg": 3,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Maageek",
+      "firstSeen": "2026-01-08T12:53:23.799Z",
+      "lastActivity": "2026-01-08T12:53:30.450Z"
+    },
+    {
+      "id": "220332526940266@lid",
+      "msg": 1,
+      "cmd": 3,
+      "figu": 0,
+      "pushname": "Melo",
+      "firstSeen": "2026-01-08T12:55:28.912Z",
+      "lastActivity": "2026-01-08T12:56:32.776Z"
+    },
+    {
+      "id": "199625784987864@lid",
+      "msg": 33,
+      "cmd": 5,
+      "figu": 2,
+      "pushname": "𝓔𝓵𝓲𝓷𝓼𝓫𝓮𝓻𝓰",
+      "firstSeen": "2026-01-08T13:10:38.459Z",
+      "lastActivity": "2026-01-08T13:58:50.306Z"
+    }
+  ],
+  "autorepo": true,
+  "warnings": {
+    "79212467728468@lid": [
+      {
+        "reason": "você foi contra a nossa diretora militar você será exilado em praça pública nos próximos dias",
+        "timestamp": 1767878572034,
+        "issuer": "17399315185918@lid"
+      }
+    ],
+    "199625784987864@lid": [
+      {
+        "reason": "Fanboy da NVidia",
+        "timestamp": 1767880821676,
+        "issuer": "17399315185918@lid"
+      }
+    ]
+  },
+  "modobrincadeira": true
+}

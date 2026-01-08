@@ -1,0 +1,121 @@
+{
+  "mark": {
+    "17399315185918@lid": "marca"
+  },
+  "createdAt": "2026-01-07T23:27:30.107Z",
+  "groupName": "Os retardados (as) da prr do Brasil",
+  "modorpg": false,
+  "minMessage": null,
+  "moderators": [
+    "56075478954167@lid"
+  ],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "mutedUsers2": {},
+  "levelingEnabled": false,
+  "adminWhitelist": {},
+  "roles": {},
+  "roleMessages": {},
+  "contador": [
+    {
+      "id": "17399315185918@lid",
+      "msg": 52,
+      "cmd": 48,
+      "figu": 0,
+      "pushname": "wesleyvkkj",
+      "firstSeen": "2026-01-07T23:27:30.111Z",
+      "lastActivity": "2026-01-08T18:58:09.163Z"
+    },
+    {
+      "id": "99858341998842@lid",
+      "msg": 11,
+      "cmd": 4,
+      "figu": 1,
+      "pushname": "Julio Cesar",
+      "firstSeen": "2026-01-07T23:57:14.496Z",
+      "lastActivity": "2026-01-08T13:52:00.234Z"
+    },
+    {
+      "id": "56075478954167@lid",
+      "msg": 4,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Clarice Brandão",
+      "firstSeen": "2026-01-07T23:58:33.829Z",
+      "lastActivity": "2026-01-08T17:57:15.326Z"
+    },
+    {
+      "id": "139767429738524@lid",
+      "msg": 4,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Heitor Andrade",
+      "firstSeen": "2026-01-08T00:03:00.990Z",
+      "lastActivity": "2026-01-08T13:42:57.497Z"
+    },
+    {
+      "id": "136502734504006@lid",
+      "msg": 3,
+      "cmd": 0,
+      "figu": 1,
+      "pushname": "Diego",
+      "firstSeen": "2026-01-08T00:51:12.775Z",
+      "lastActivity": "2026-01-08T13:40:22.431Z"
+    },
+    {
+      "id": "181179403751677@lid",
+      "msg": 6,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Isahh",
+      "firstSeen": "2026-01-08T12:48:46.484Z",
+      "lastActivity": "2026-01-08T12:53:05.420Z"
+    },
+    {
+      "id": "26165511196804@lid",
+      "msg": 3,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "VOXBot",
+      "firstSeen": "2026-01-08T12:50:34.379Z",
+      "lastActivity": "2026-01-08T17:55:44.822Z"
+    },
+    {
+      "id": "146578744557796@lid",
+      "msg": 5,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Lívis🫶🏽",
+      "firstSeen": "2026-01-08T13:16:33.368Z",
+      "lastActivity": "2026-01-08T18:00:15.896Z"
+    },
+    {
+      "id": "60271812984976@lid",
+      "msg": 21,
+      "cmd": 1,
+      "figu": 0,
+      "pushname": "jv",
+      "firstSeen": "2026-01-08T17:54:59.995Z",
+      "lastActivity": "2026-01-08T17:58:18.780Z"
+    },
+    {
+      "id": "55066396487933@lid",
+      "msg": 1,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "ph",
+      "firstSeen": "2026-01-08T17:55:41.764Z",
+      "lastActivity": "2026-01-08T17:55:41.765Z"
+    },
+    {
+      "id": "263041547513982@lid",
+      "msg": 16,
+      "cmd": 0,
+      "figu": 0,
+      "pushname": "Simão pedro",
+      "firstSeen": "2026-01-08T17:55:49.980Z",
+      "lastActivity": "2026-01-08T17:57:24.755Z"
+    }
+  ],
+  "modobrincadeira": true
+}
