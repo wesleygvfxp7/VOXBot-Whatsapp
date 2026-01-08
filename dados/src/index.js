@@ -4626,7 +4626,7 @@ Código: *${roleCode}*`,
                   paramsMapC[p.name] = argsListC[i] || '';
                 }
               }
-              processedResponse.caption = processedResponse.caption.replace(/\{(?:args|all)\}/gi, allArgsC);
+              processedResponse.caption = processedResponse.caption.replace(/\{(?:args|all)\}/gi, allArgs);
               processedResponse.caption = processedResponse.caption.replace(/\{(\d+)\}/g, (m, idx) => {
                 const i = parseInt(idx, 10) - 1;
                 return argsListC[i] || '';
@@ -34014,4 +34014,3 @@ function getDiskSpaceInfo() {
   }
 }
 export default NazuninhaBotExec;
-
